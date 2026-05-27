@@ -1,0 +1,5 @@
+# Candidacy repo should contain only the profile README.
+# Everything else here is local workspace tooling (canvas, notes, drafts) — never publish it.
+*
+!README.md
+!.gitignore

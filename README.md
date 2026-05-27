@@ -50,6 +50,8 @@ I love a good challenge, but what I enjoy most is solving those challenges along
 - **Disappoints me:** analysis paralysis, lack of proactivity and amibition (in the positive sense of drive and curiosity), unclear communication, rigid structures in the workplace.
 - **Strengths:** proactivity (even in my daily life, i am the one proposing plans in the group of friends), communication-first, rigorous implementation (i specifically like clean and orginized projects and code).
 - **Improvement areas:** delegating when moving fast, i tend to think that the days has more hours than it actually has, room for improvement when prioritizing tasks, lack of self confidence when it comes to sharing my work.
+- **How I learn:** some of my most valuable learning comes from YouTube and Spotify/iVoox — if you dig a little, you'll find channels and podcasts that create absolute masterpieces.
+- **Paper-first:** as much of a technology enthusiast as I am, I always carry a physical agenda and a notebook with me — the things that matter, I tend to write down by hand.
 
 ---
 
