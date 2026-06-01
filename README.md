@@ -32,7 +32,7 @@ I love a good challenge, but what I enjoy most is solving those challenges along
 | Project | Role & Stack | Impact / Demo |
 |---------|-------------|---------------|
 | **[Skill Gap Analysis](https://github.com/skill-gap-dev/skill_gap_analysis)** | Solo dev · Python · NLP · Semantic embeddings · Streamlit | NLP-driven platform that extracts and compares skills between candidate profiles and job descriptions — live Streamlit app |
-| **[PINNs Options Pricing](https://github.com/AlvaroMartinRuiz/PINNs_Options_Pricing)** | Solo dev · Python · TensorFlow | Prices European options using Physics-Informed Neural Networks — enforces Black-Scholes PDE as a hard constraint |
+| **[The Poop App](https://github.com/AlvaroMartinRuiz/PoopApp)** | Team of 4 · Android (Kotlin) · Firebase · Google Maps | Mobile app for tracking digestive habits with a social, gamified twist. I owned *Shitshare* — the social-leagues + leaderboards feature. [Demo video](https://www.youtube.com/watch?v=hUigo7fBZ8A) |
 | **[Super Mario Bros Clone](https://github.com/AlvaroMartinRuiz/super_mario_bross)** | Solo dev · Python · Pygame | Full 2D platformer with custom physics engine, enemy AI (Goomba/Koopa), and OOP architecture — clone and run `python main.py` |
 
 ### Experience (TL;DR)
